@@ -1,1 +1,3 @@
 # trening
+* Projektes
+** languges C# **
